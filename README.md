@@ -35,12 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhinav15s&show_icons=true&theme=default)
-
----
-
 ## 📂 Featured Projects
 
 | Project | Description | Tools Used |
